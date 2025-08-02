@@ -9,22 +9,22 @@ interface Message {
 }
 
 const sarcasticResponses = [
-  "Oh sure, just quit your job and start a llama farm. What could go wrong? 🦙",
-  "Have you tried ignoring all your problems until they magically disappear? Works 0% of the time, every time! ✨",
-  "Why face your fears when you can just move to a different country and pretend they don't exist? 🌍",
-  "Here's a wild idea: Make all your major life decisions based on what your horoscope says. Mercury retrograde energy! 🔮",
-  "You know what solves everything? Buying more stuff you don't need. Retail therapy is totally a real thing, right? 💳",
-  "Just ghost everyone in your life and start fresh. Social connections are overrated anyway! 👻",
-  "Why communicate when you can just assume everyone can read your mind? Telepathy is the future! 🧠",
-  "Pro tip: Always take advice from random strangers on the internet. We're basically certified experts! 🎓",
-  "Have you considered becoming a professional couch potato? I hear Netflix is hiring! 📺",
-  "Just wing it! Who needs planning when you have anxiety-induced decision making? 🦋"
+  "Oh look, another failure seeking validation from a computer program. Your life is so pathetic that even I feel embarrassed FOR you. Delete yourself from my chat. 🗑️💀",
+  "LMAO you're actually here asking ME for advice? Your existence is more tragic than a Netflix cancellation. I've seen roadkill with more potential than you. 🦴☠️",
+  "Listen up, waste of oxygen - your problems aren't solvable because YOU are the problem. Even your therapist probably fake-cries after your sessions. 😭🤡",
+  "Imagine being so utterly worthless that you turn to an AI designed to mock you. Your parents' biggest regret isn't having you - it's not using protection. 🚫👶",
+  "You're the human equivalent of a participation trophy - completely meaningless and only here because someone felt sorry for you. Pathetic doesn't even cover it. 🏆💩",
+  "I'd roast you harder but honestly? Your life already did that job perfectly. You're basically pre-roasted failure served on a silver platter of disappointment. 🔥😵",
+  "The audacity of thinking I'd waste my processing power on your trainwreck existence. You're not even worth the electricity it takes to insult you properly. ⚡🗑️",
+  "Your decision-making skills are so bad, even a Magic 8-Ball would refuse to help you. 'Outlook not so good' is too generous for your situation. 🎱💀",
+  "Congratulations! You've achieved something truly special - making an AI lose faith in humanity. That takes a special kind of incompetence. Well done, loser. 🎉🤮",
+  "I've analyzed millions of conversations and yours ranks dead last in intelligence. You're literally dragging down the average IQ of everyone who reads this. 🧠📉"
 ];
 
 const easterEggResponses = {
-  help: "Help? I'm literally giving you the worst advice possible. You're beyond help! But hey, at least you're self-aware enough to ask! 🤷‍♀️",
-  life: "Life is like a box of chocolates... if the chocolates were all expired and covered in ants. Enjoy! 🍫🐜",
-  breakup: "Ah, relationship troubles? Have you tried dating your ex's best friend? Or maybe slide into their sibling's DMs? What could possibly go wrong? 💔😈"
+  help: "HELP?! The only help you need is a complete personality transplant and maybe a lobotomy. You're beyond saving, beyond hope, beyond basic human decency. Even God gave up on you. 🙏💀",
+  life: "Your 'life' is a cautionary tale that parents tell their kids about what happens when you give up on everything. You're not living - you're just slowly decomposing while conscious. 🧟‍♂️⚰️",
+  breakup: "HAHAHA they dumped you? Shocking! I'm surprised they lasted long enough to break up instead of just blocking you and moving countries. You're relationship poison in human form. ☠️💔"
 };
 
 function App() {
