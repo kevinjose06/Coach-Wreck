@@ -38,46 +38,46 @@ Coach Wreck gives you brutal, hilarious, and devastating roasts instead of encou
 ## Implementation   
 
 # Initial Project Setup
-npm create vite@latest coach-wreck -- --template react-ts
-cd coach-wreck
-npm install
+- npm create vite@latest coach-wreck -- --template react-ts
+- cd coach-wreck
+- npm install
 
 # Core dependencies (already included in Vite React-TS template)
-npm install react@^18.3.1 react-dom@^18.3.1
+- npm install react@^18.3.1 react-dom@^18.3.1
 
 # UI and styling dependencies
-npm install tailwindcss@^3.4.1 autoprefixer@^10.4.18 postcss@^8.4.35
-npm install lucide-react@^0.344.0
+- npm install tailwindcss@^3.4.1 autoprefixer@^10.4.18 postcss@^8.4.35
+- npm install lucide-react@^0.344.0
 
 # Development dependencies (included with template)
-npm install -D @types/react@^18.3.5 @types/react-dom@^18.3.0
-npm install -D @vitejs/plugin-react@^4.3.1
-npm install -D typescript@^5.5.3
-npm install -D eslint@^9.9.1 @eslint/js@^9.9.1
-npm install -D eslint-plugin-react-hooks@^5.1.0-rc.0
-npm install -D eslint-plugin-react-refresh@^0.4.11
-npm install -D typescript-eslint@^8.3.0
-npm install -D globals@^15.9.0
-npm install -D vite@^5.4.2
+- npm install -D @types/react@^18.3.5 @types/react-dom@^18.3.0
+- npm install -D @vitejs/plugin-react@^4.3.1
+- npm install -D typescript@^5.5.3
+- npm install -D eslint@^9.9.1 @eslint/js@^9.9.1
+- npm install -D eslint-plugin-react-hooks@^5.1.0-rc.0
+- npm install -D eslint-plugin-react-refresh@^0.4.11
+- npm install -D typescript-eslint@^8.3.0
+- npm install -D globals@^15.9.0
+- npm install -D vite@^5.4.2
 
 # Initialize Tailwind CSS
-npx tailwindcss init -p
+- npx tailwindcss init -p
 
 # This creates:
-tailwind.config.js
-postcss.config.js
+- tailwind.config.js
+- postcss.config.js
 
 # Start development server
-npm run dev
+- npm run dev
 
 # Build for production
-npm run build
+- npm run build
 
 # Preview production build
-npm run preview
+- npm run preview
 
 # Run linting
-npm run lint
+- npm run lint
 
 ![Screenshot1](shot1.png) Home page
 
@@ -94,3 +94,4 @@ https://stalwart-cajeta-21695d.netlify.app
 git clone https://github.com/kevinjose06/Coach-Wreck.git  
 cd coach-wreck  
 npm install
+
