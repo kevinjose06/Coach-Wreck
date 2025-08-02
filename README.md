@@ -79,9 +79,9 @@ Coach Wreck gives you brutal, hilarious, and devastating roasts instead of encou
 # Run linting
 - npm run lint
 
-![Screenshot1](shot1.png) Home page
+![Screenshot1](shot2.png) Home page
 
-![Screenshot2](shot2.png) Page after a query is asked
+![Screenshot2](shot1.png) Page after a query is asked
 
 ![Screenshot3](shot3.png) Page after ask again is used
 
@@ -94,4 +94,5 @@ https://stalwart-cajeta-21695d.netlify.app
 git clone https://github.com/kevinjose06/Coach-Wreck.git  
 cd coach-wreck  
 npm install
+
 
